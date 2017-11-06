@@ -44,12 +44,12 @@
     ],
     reviews: [{
       stars: 5,
-      body: "I love this gem!",
-      author: "joe@thomas.com",
+      body: "I'll wait for Cap in #4!",
+      author: "steve@nobuckyno.com",
       createdOn: 1397490980837
     }, {
       stars: 1,
-      body: "This gem sucks.",
+      body: "Thor is lame.",
       author: "tim@hater.com",
       createdOn: 1397490980837
     }]
@@ -69,13 +69,13 @@
     ],
     reviews: [{
       stars: 3,
-      body: "I think this gem was just OK, could honestly use more shine, IMO.",
-      author: "JimmyDean@sausage.com",
+      body: "At least they tried to make it diverse. Then everyone who wasn't white split.",
+      author: "stanwho?@dc.com",
       createdOn: 1397490980837
     }, {
       stars: 4,
-      body: "Any gem with 12 faces is for me!",
-      author: "gemsRock@alyssaNicoll.com",
+      body: "Yaaas...Bansheee!",
+      author: "irisheyes@sonicscream.com",
       createdOn: 1397490980837
     }]
   },
@@ -95,13 +95,13 @@
     ],
     reviews: [{
       stars: 3,
-      body: "I think this gem was just OK, could honestly use more shine, IMO.",
-      author: "JimmyDean@sausage.com",
+      body: "Nice book bub.",
+      author: "logan@hurtseverytime.com",
       createdOn: 1397490980837
     }, {
       stars: 4,
-      body: "Any gem with 12 faces is for me!",
-      author: "gemsRock@alyssaNicoll.com",
+      body: "That suit is ridiculous.",
+      author: "hjackman@tootallfortherole.com",
       createdOn: 1397490980837
     }]
   },
@@ -121,13 +121,13 @@
     ],
     reviews: [{
       stars: 3,
-      body: "I think this gem was just OK, could honestly use more shine, IMO.",
-      author: "JimmyDean@sausage.com",
+      body: "Ok, I take back what I said about trying.",
+      author: "lukecage@wasborderlineexploitataionthough.com",
       createdOn: 1397490980837
     }, {
       stars: 4,
-      body: "Any gem with 12 faces is for me!",
-      author: "gemsRock@alyssaNicoll.com",
+      body: "BP rocks.",
+      author: "kickedcapsarse@invisiblecity.com",
       createdOn: 1397490980837
     }]
   },
@@ -147,18 +147,18 @@
     ],
     reviews: [{
       stars: 1,
-      body: "This gem is WAY too expensive for its rarity value.",
-      author: "turtleguyy@zdn.me",
+      body: "Ben Affleck. No.",
+      author: "scarredforlife@mattm.com",
       createdOn: 1397490980837
     }, {
       stars: 1,
-      body: "BBW: High Shine != High Quality.",
-      author: "LouisW407@gmail.com",
+      body: "Frank. Effin. Miller.",
+      author: "artguy@gmail.com",
       createdOn: 1397490980837
     }, {
       stars: 1,
-      body: "Don't waste your rubles!",
-      author: "nat@flatland.com",
+      body: "How the eff did he not hear him coming...",
+      author: "supersenses@airdevil.com",
       createdOn: 1397490980837
     }]
   }];
