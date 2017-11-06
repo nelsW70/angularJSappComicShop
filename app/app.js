@@ -1,7 +1,7 @@
 // Code goes here
 
 (function() {
-  var app = angular.module('gemStore', ['store-directives']);
+  var app = angular.module('comicStore', ['store-directives']);
 
   app.controller('GalleryController', function() {
     this.imageIndex = 0;
@@ -12,7 +12,7 @@
   });
 
   app.controller('StoreController', function() {
-    this.products = gems;
+    this.products = comics;
   });
 
 
@@ -28,7 +28,7 @@
 
   });
 
-  var gems = [{
+  var comics = [{
     name: 'Avengers #1',
     description: "CGC 6.5 Signed by Stan Lee (1st Print)",
     publisher: 'Marvel Comics',
