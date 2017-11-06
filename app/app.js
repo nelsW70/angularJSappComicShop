@@ -36,7 +36,7 @@
     createdby: 'Stan Lee | Jack Kirby',
     artist: 'Jack Kirby',
     firstappearance: 'The Avengers',
-    date: 'September 1963',
+    date: new Date('September 1963'),
     images: [
       "img/avengersStanLeesigned.JPG",
       "img/avengersStanback.jpg",
@@ -61,7 +61,7 @@
     createdby: 'X-Men: Stan Lee | Jack Kirby New X-Men: Chris Claremont | Len Wein',
     artist: 'Chris Claremont | Dave Cockrum',
     firstappearance: 'The New X-Men',
-    date: 'August 1975',
+    date: new Date('August 1975'),
     images: [
       "img/x-men94crop.jpg",
       "img/x-men94backcrop.jpg",
@@ -87,7 +87,7 @@
     createdby: 'Hulk: Stan Lee | Jack Kirby   Wolverine: Roy Thomas | Len Wein | John Romita Sr.',
     artist: 'John Romita Sr. | Herb Trimpe',
     firstappearance: 'Wolverine',
-    date: 'October 1974',
+    date: new Date('October 1974'),
     images: [
       "img/hulk_wolverine.jpg",
       "img/hulk_wolverine2.jpg",
@@ -113,7 +113,7 @@
     createdby: 'Stan Lee | Jack Kirby',
     artist: 'Jack Kirby | Joe Sinnott',
     firstappearance: 'Black Panther',
-    date: 'July 1966',
+    date: new Date('July 1966'),
     images: [
       "img/ff_blackpanther_cover.jpg",
       "img/ff_blackpanther_back.jpg",
@@ -139,7 +139,7 @@
     createdby: 'Stan Lee | Jack Kirby | Bill Everett',
     artist: 'Frank Miller',
     firstappearance: 'Artwork from Frank Miller',
-    date: 'May 1979',
+    date: new Date('May 1979'),
     images: [
       "img/daredevil.jpg",
       "img/daredevil_Stan.jpg",
